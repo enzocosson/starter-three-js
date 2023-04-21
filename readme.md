@@ -1,11 +1,8 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Website
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Visit my website https://www.enzo-cosson.fr/
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
